@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AaronSong321
 - 👀 I’m interested in compiler design and game design.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning SSA, Kotlin, Swift, Lua...
 - 💞️ I’m looking to collaborate on open-source object-oriented language design and game logic design projects.
 - 📫 You can reach me through aaronsjcs@gmail.com
 
