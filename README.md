@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AaronSong321
-- 👀 I’m interested in compiler design and game design.
-- 🌱 I’m currently learning SSA, Kotlin, Swift, Lua...
-- 💞️ I’m looking to collaborate on open-source object-oriented language design and game logic design projects.
-- 📫 You can reach me through aaronsjcs@gmail.com
+- 👀 I’m interested in language design.
+- 🌱 I’m currently learning Kotlin, Rust (, and C++ forever)...
+- 💞️ I’m looking to collaborate on open-source language design and compiler implementation.
+- 📫 You can reach me through aaron.jian.song@outlook.com
 
 <!---
 AaronSong321/AaronSong321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
